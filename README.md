@@ -93,7 +93,7 @@ The goal is to demonstrate practical data analytics skills using Python, SQL, Po
 
 ## Author
 ### Akshith Kumar Modem
-Aspiring Data Analyst | SQL | Python | Power B
+Aspiring Data Analyst | SQL | Python | Power BI
 
   
 
