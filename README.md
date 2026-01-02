@@ -1,19 +1,19 @@
-## Customer_Behavior_Analysis
+## 📊  Customer_Behavior_Analysis
 Customer behavior analysis project featuring SQL-based data extraction, Python EDA, and an interactive Power BI dashboard for business insights.
 
-## Overview
+## 📌 Overview
 This project focuses on analyzing customer purchasing behavior to identify trends, patterns, and actionable business insights. The analysis follows an end-to-end data analytics workflow, including data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard creation, and reporting.
 
 The goal is to demonstrate practical data analytics skills using Python, SQL, Power BI, and AI-assisted reporting tools.
 
-## Dataset
+## 🗂️ Dataset
 * The dataset contains customer transaction and behavior-related information.
 
 * It includes details such as customer attributes, purchase history, shipping type, discounts, and order values.
 
 * The dataset was loaded and processed using Python and later stored in a MySQL database for structured querying
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 * Python – Data loading, cleaning, and exploratory data analysis
 
 * Pandas, NumPy, Matplotlib/Seaborn – Data manipulation and visualization
@@ -26,7 +26,7 @@ The goal is to demonstrate practical data analytics skills using Python, SQL, Po
 
 * GitHub – Version control and project documentation
 
-## Project Workflow/Steps
+## 🔍 Project Workflow/Steps
 1.Loaded the dataset into Python using Pandas
 
 2.Performed Exploratory Data Analysis (EDA) to understand data structure and patterns
@@ -43,7 +43,7 @@ The goal is to demonstrate practical data analytics skills using Python, SQL, Po
 
 8.Developed a presentation using Gamma AI for clear stakeholder communication
 
-## Dashboard
+## 📈 Dashboard
 * Built an interactive Power BI dashboard to visualize:
 
   -> Customer segmentation
@@ -58,7 +58,7 @@ The goal is to demonstrate practical data analytics skills using Python, SQL, Po
 
   (Power BI file can be found in the repository)
 
-## Key Results & Insights
+## ✅ Key Results & Insights
 * Identified key customer segments based on purchase behavior
 
 * Analyzed the impact of shipping type and discounts on customer spending
@@ -67,7 +67,7 @@ The goal is to demonstrate practical data analytics skills using Python, SQL, Po
 
 * Provided data-backed insights to support business strategy
 
-## How to Run the Project
+## 🚀 How to Run the Project
 1.Clone the repository to your local machine.
    
 2.Install the required Python libraries listed in the project.
@@ -82,7 +82,7 @@ The goal is to demonstrate practical data analytics skills using Python, SQL, Po
 
 7.Review the PDF report and presentation for insights
 
-## Deliverables
+## 💼 Deliverables
 * Jupyter Notebook for EDA and data cleaning
 
 * SQL queries for analytical insights
